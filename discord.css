@@ -1,0 +1,26 @@
+body {
+    background-color: darkorchid
+}
+.test{
+    font-size: 30px;
+    color: black;
+    border-style: inset;
+    background-color: white;
+    
+}
+.test2 {
+    font-size: 30px;
+    color: blue;
+    border-style:  inset;
+    background-color: white;
+    
+}
+.test3 {
+    font-size: 30px;
+    color: black;
+    border-style: inset;
+    background-color: white;   
+}
+span {
+    color: black;
+}
